@@ -1,0 +1,18 @@
+.table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.table th {
+  width: 25%;
+}
+
+.table td {
+  width: 25%;
+}
